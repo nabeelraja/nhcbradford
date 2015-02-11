@@ -1,0 +1,55 @@
+---
+buzzwords: |+
+  data: {"items":[{"label":"Paradigm shift","value":3},{"label":"Turn-key","value":7},{"label":"Web 2.0","value":6},{"label":"Synergy","value":2},{"label":"Exit strategy","value":3},{"label":"Pivoting","value":2},{"label":"Streamlininess","value":1},{"label":"Leverage","value":1}],"id":"buzzwords","updatedAt":1423644060}
+
+convergence: |+
+  data: {"points":[{"x":26,"y":12},{"x":27,"y":46},{"x":28,"y":19},{"x":29,"y":7},{"x":30,"y":4},{"x":31,"y":18},{"x":32,"y":47},{"x":33,"y":43},{"x":34,"y":43},{"x":35,"y":17}],"id":"convergence","updatedAt":1423644060}
+
+valuation: |+
+  data: {"current":33,"last":38,"id":"valuation","updatedAt":1423644059}
+
+karma: |+
+  data: {"current":46835,"last":36558,"id":"karma","updatedAt":1423644059}
+
+synergy: |+
+  data: {"value":60,"id":"synergy","updatedAt":1423644059}
+
+total_leads: |+
+  data: {"value":132.0,"id":"total_leads","updatedAt":1423644015}
+
+total: |+
+  data: {"value":25,"id":"total","updatedAt":1414508616}
+
+target: |+
+  data: {"value":132.0,"max":150.0,"title":"Clinic Target 150","id":"target","updatedAt":1423644015}
+
+cc1: |+
+  data: {"value":60.0,"id":"cc1","updatedAt":1423644015}
+
+cc2: |+
+  data: {"value":72.0,"id":"cc2","updatedAt":1423644015}
+
+top_agents: |+
+  data: {"items":[{"label":"Alex","value":5},{"label":"Ricky","value":3},{"label":"Steve","value":2},{"label":"Leon","value":2},{"label":"Jeremy","value":2},{"label":"Mark","value":1},{"label":"Brad","value":1},{"label":null,"value":0}],"id":"top_agents","updatedAt":1414588018}
+
+taxis_booked: |+
+  data: {"value":8.0,"id":"taxis_booked","updatedAt":1423644015}
+
+home_visits: |+
+  data: {"value":1.0,"id":"home_visits","updatedAt":1414923747}
+
+letters_dispatched: |+
+  data: {"value":51.0,"id":"letters_dispatched","updatedAt":1423644015}
+
+clinic_details: |+
+  data: {"cliniclocation":"Casa Hotel - Chesterfield","clinicdate":"Friday, 11th December 2014","id":"clinic_details","updatedAt":1423644015}
+
+agent_stats: |+
+  data: {"items":[{"label":"CC1-SairaA","value":8},{"label":"CC2-SonyaH","value":7},{"label":"CC2-ChristineD","value":7},{"label":"CC2-ModuM","value":6},{"label":"CC1-PaulB","value":6},{"label":"CC1-Awais","value":6},{"label":"CC2-SiemaA","value":5},{"label":"CC2-LaurenG","value":5},{"label":"CC2-DaveL","value":5},{"label":"CC2-AzadI","value":5},{"label":"CC1-ShaguftaB","value":5},{"label":"CC1-Saima","value":5},{"label":"CC1-RobertS","value":5},{"label":"CC2-RikkiL","value":4},{"label":"CC2-NatalieD","value":4},{"label":"CC1-AmarS","value":4},{"label":"CC2-StephenP","value":3},{"label":"CC2-Maxine","value":3},{"label":"CC2-KatherineP","value":3},{"label":"CC2-Atif","value":3},{"label":"CC1-VladimirV","value":3},{"label":"CC1-AmarH","value":3},{"label":"CC2-PaulS","value":2},{"label":"CC2-John","value":2},{"label":"CC2-AffiyaS","value":2},{"label":"CC1-WaqarA","value":2},{"label":"CC1-RickeaB","value":2},{"label":"CC1-IlyasA","value":2},{"label":"CC1-GaryL","value":2},{"label":"CC1-CharandeepS","value":2},{"label":"CC2-ShannonF","value":1},{"label":"CC2-Michelle","value":1},{"label":"CC2-Kyle","value":1},{"label":"CC2-JamesF","value":1},{"label":"CC2-DavidB","value":1},{"label":"CC2-Alan","value":1},{"label":"CC1-WajidM","value":1},{"label":"CC1-Soloman","value":1},{"label":"CC1-HarunA","value":1},{"label":"CC1-AhsanA","value":1},{"label":"CC1-AbbasA","value":1}],"id":"agent_stats","updatedAt":1423644016}
+
+cc3: |+
+  data: {"value":0.0,"id":"cc3","updatedAt":1423306405}
+
+homevisits: |+
+  data: {"value":0.0,"id":"homevisits","updatedAt":1423644015}
+
