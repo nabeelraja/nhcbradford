@@ -1,27 +1,27 @@
 ---
 buzzwords: |+
-  data: {"items":[{"label":"Web 2.0","value":10},{"label":"Enterprise","value":8},{"label":"Streamlininess","value":9},{"label":"Turn-key","value":10},{"label":"Leverage","value":5},{"label":"Exit strategy","value":6},{"label":"Paradigm shift","value":3},{"label":"Synergy","value":8},{"label":"Pivoting","value":3}],"id":"buzzwords","updatedAt":1433268688}
+  data: {"items":[{"label":"Web 2.0","value":9},{"label":"Synergy","value":10},{"label":"Exit strategy","value":9},{"label":"Pivoting","value":3},{"label":"Turn-key","value":18},{"label":"Leverage","value":28},{"label":"Enterprise","value":15},{"label":"Streamlininess","value":11},{"label":"Paradigm shift","value":13}],"id":"buzzwords","updatedAt":1435865483}
 
 convergence: |+
-  data: {"points":[{"x":63,"y":3},{"x":64,"y":45},{"x":65,"y":44},{"x":66,"y":3},{"x":67,"y":6},{"x":68,"y":19},{"x":69,"y":32},{"x":70,"y":2},{"x":71,"y":49},{"x":72,"y":19}],"id":"convergence","updatedAt":1433268688}
+  data: {"points":[{"x":627,"y":11},{"x":628,"y":18},{"x":629,"y":8},{"x":630,"y":22},{"x":631,"y":17},{"x":632,"y":29},{"x":633,"y":38},{"x":634,"y":3},{"x":635,"y":40},{"x":636,"y":16}],"id":"convergence","updatedAt":1435865483}
 
 valuation: |+
-  data: {"current":0,"last":43,"id":"valuation","updatedAt":1433268687}
+  data: {"current":57,"last":34,"id":"valuation","updatedAt":1435865485}
 
 karma: |+
-  data: {"current":117129,"last":110607,"id":"karma","updatedAt":1433268687}
+  data: {"current":35424,"last":44989,"id":"karma","updatedAt":1435865485}
 
 synergy: |+
-  data: {"value":40,"id":"synergy","updatedAt":1433268687}
+  data: {"value":60,"id":"synergy","updatedAt":1435865485}
 
 total_leads: |+
-  data: {"value":132.0,"id":"total_leads","updatedAt":1423644015}
+  data: {"value":"65","id":"total_leads","updatedAt":1435865440}
 
 total: |+
   data: {"value":25,"id":"total","updatedAt":1414508616}
 
 target: |+
-  data: {"value":132.0,"max":150.0,"title":"Clinic Target 150","id":"target","updatedAt":1423644015}
+  data: {"value":65,"max":"200","title":"Clinic Target 200","id":"target","updatedAt":1435865440}
 
 cc1: |+
   data: {"value":60.0,"id":"cc1","updatedAt":1423644015}
@@ -33,19 +33,19 @@ top_agents: |+
   data: {"items":[{"label":"Alex","value":5},{"label":"Ricky","value":3},{"label":"Steve","value":2},{"label":"Leon","value":2},{"label":"Jeremy","value":2},{"label":"Mark","value":1},{"label":"Brad","value":1},{"label":null,"value":0}],"id":"top_agents","updatedAt":1414588018}
 
 taxis_booked: |+
-  data: {"value":8.0,"id":"taxis_booked","updatedAt":1423644015}
+  data: {"value":"1","id":"taxis_booked","updatedAt":1435865440}
 
 home_visits: |+
   data: {"value":1.0,"id":"home_visits","updatedAt":1414923747}
 
 letters_dispatched: |+
-  data: {"value":51.0,"id":"letters_dispatched","updatedAt":1423644015}
+  data: {"value":"29","id":"letters_dispatched","updatedAt":1435865440}
 
 clinic_details: |+
-  data: {"cliniclocation":"Casa Hotel - Chesterfield","clinicdate":"Friday, 11th December 2014","id":"clinic_details","updatedAt":1423644015}
+  data: {"cliniclocation":"University Of Sunderland, Sir Tom Cowie Campus St Peters, Reg Vardy Building, St Peters Gate, Charles Street, SR6 0DD","clinicdate":"Friday 10th July 2015","id":"clinic_details","updatedAt":1435865440}
 
 agent_stats: |+
-  data: {"items":[{"label":"CC1-SairaA","value":8},{"label":"CC2-SonyaH","value":7},{"label":"CC2-ChristineD","value":7},{"label":"CC2-ModuM","value":6},{"label":"CC1-PaulB","value":6},{"label":"CC1-Awais","value":6},{"label":"CC2-SiemaA","value":5},{"label":"CC2-LaurenG","value":5},{"label":"CC2-DaveL","value":5},{"label":"CC2-AzadI","value":5},{"label":"CC1-ShaguftaB","value":5},{"label":"CC1-Saima","value":5},{"label":"CC1-RobertS","value":5},{"label":"CC2-RikkiL","value":4},{"label":"CC2-NatalieD","value":4},{"label":"CC1-AmarS","value":4},{"label":"CC2-StephenP","value":3},{"label":"CC2-Maxine","value":3},{"label":"CC2-KatherineP","value":3},{"label":"CC2-Atif","value":3},{"label":"CC1-VladimirV","value":3},{"label":"CC1-AmarH","value":3},{"label":"CC2-PaulS","value":2},{"label":"CC2-John","value":2},{"label":"CC2-AffiyaS","value":2},{"label":"CC1-WaqarA","value":2},{"label":"CC1-RickeaB","value":2},{"label":"CC1-IlyasA","value":2},{"label":"CC1-GaryL","value":2},{"label":"CC1-CharandeepS","value":2},{"label":"CC2-ShannonF","value":1},{"label":"CC2-Michelle","value":1},{"label":"CC2-Kyle","value":1},{"label":"CC2-JamesF","value":1},{"label":"CC2-DavidB","value":1},{"label":"CC2-Alan","value":1},{"label":"CC1-WajidM","value":1},{"label":"CC1-Soloman","value":1},{"label":"CC1-HarunA","value":1},{"label":"CC1-AhsanA","value":1},{"label":"CC1-AbbasA","value":1}],"id":"agent_stats","updatedAt":1423644016}
+  data: {"items":[{"label":"CC1-Admin","value":11},{"label":"CC1-DeanT","value":7},{"label":"CC1-KatieP","value":6},{"label":"CC1-DavidPowell","value":6},{"label":"CC1-WajidM","value":5},{"label":"CC1-ZareedaN","value":4},{"label":"CC1-WaqarA","value":4},{"label":"CC1-RickeaB","value":4},{"label":"CC1-AlinaS","value":4},{"label":"CC1-TraceyG","value":3},{"label":"CC1-PaulBaker","value":3},{"label":"CC1-KasimU","value":3},{"label":"CC1-SairishH","value":2},{"label":"CC1-NabelaB","value":1},{"label":"CC1-HennaB","value":1},{"label":"CC1-AmarS","value":1}],"id":"agent_stats","updatedAt":1435865440}
 
 cc3: |+
   data: {"value":0.0,"id":"cc3","updatedAt":1423306405}
